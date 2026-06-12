@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Olá Mundo</title>
-</head>
+<html>
 <body>
-    <h1>Olá, mundo!</h1>
+    Olá, mundo!
 </body>
 </html>
